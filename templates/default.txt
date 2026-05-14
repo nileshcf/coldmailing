@@ -1,0 +1,19 @@
+Hi {first_name},
+
+I am reaching out because I am interested in {company} and wanted to introduce myself for {role}.
+
+{value_proposition}
+
+I can share more context if it would be useful.
+
+{ask}
+
+Best,
+{sender_name}
+{sender_title}
+{sender_phone}
+{sender_linkedin}
+{sender_github}
+{sender_portfolio}
+
+If this is not relevant, please reply "unsubscribe" and I will not follow up.
